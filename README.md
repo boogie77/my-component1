@@ -1,1 +1,1 @@
-"# my-component1" 
+# my-component1
